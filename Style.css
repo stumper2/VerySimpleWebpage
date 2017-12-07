@@ -1,0 +1,52 @@
+body {
+	background-image:url(http://thewallpaper.co/wp-content/uploads/2016/10/Simple-backgrounds-free-download-hd-wallpapers-amazing-cool-desktop-wallpapers-for-windows-mac-tablet-download-free-1920x1080-1366x768.jpg);
+	background-size: cover;
+	background-position: center center;
+	  overflow: hidden;
+}
+
+img.headshot {
+	display: block;
+	margin: auto;
+	width: 15%;
+	height; 15%;
+	border-radius: 50%;
+}
+
+div.transbox {
+  margin: 100px;
+  background: rgba(255,255,255,.20);
+  padding: 10px;
+  border-radius: 30px
+}
+
+div.transbox h1 {
+  text-align: center;
+  text-shadow: 2px 2px 5px #a9a9a9;
+}
+
+div.transbox img {
+	display: block;
+	margin: auto;
+	width: 20%;
+	height;:20%;
+	border-radius: 40px;
+	box-shadow:2px 6px 5px #000000;
+}
+
+p {
+	padding: 10px;
+	text-align: center;
+	font-size: 17px;
+	text-shadow: 2px 2px 5px #A9a9a9;
+}
+
+
+div.transbox img.link {
+	display: inline-block;
+	margin: 3px;
+	padding: 5px;
+	height: 43px;
+	width: 43px;
+	border-radius: 25%;
+}
